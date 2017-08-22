@@ -1,0 +1,14 @@
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.Web.deps.json
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.Web.runtimeconfig.json
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.Web.runtimeconfig.dev.json
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.Web.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.Web.pdb
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.ApplicationCore.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.Infrastructure.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.ApplicationCore.pdb
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\bin\Debug\netcoreapp1.1\GRS.Infrastructure.pdb
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\obj\Debug\netcoreapp1.1\GRS.Web.csprojResolveAssemblyReference.cache
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\obj\Debug\netcoreapp1.1\GRS.Web.csproj.CoreCompileInputs.cache
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\obj\Debug\netcoreapp1.1\GRS.Web.AssemblyInfo.cs
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\obj\Debug\netcoreapp1.1\GRS.Web.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Web\obj\Debug\netcoreapp1.1\GRS.Web.pdb

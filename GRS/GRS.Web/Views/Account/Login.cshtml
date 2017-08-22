@@ -1,0 +1,24 @@
+@model LoginViewModel
+@{
+    ViewBag.Title = "Recruitment Agent Log In";    
+}
+<div class="text-danger" asp-validation-summary="All"></div>
+<form asp-action="Login" asp-controller="Account" method="post">
+    <input type="hidden" asp-for="ReturnUrl" />
+    <div class="form-group">
+        <label asp-for="UserName"></label>
+        <div><span asp-validation-for="UserName" class="text-danger"></span></div>
+        <input asp-for="UserName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <div><span asp-validation-for="Password" class="text-danger"></span></div>
+        <input asp-for="Password" class="form-control" />
+    </div>
+    <button class="btn btn-primary" type="submit">Log In</button>
+</form>
+<div>
+    <h4>Use following credentials / Password</h4>
+    <div>User Name: <strong>admin</strong></div>
+    <div>Password: <strong>P@ssword1</strong></div>
+</div>

@@ -1,0 +1,10 @@
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\bin\Debug\netcoreapp1.1\GRS.Infrastructure.deps.json
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\bin\Debug\netcoreapp1.1\GRS.Infrastructure.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\bin\Debug\netcoreapp1.1\GRS.Infrastructure.pdb
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\bin\Debug\netcoreapp1.1\GRS.ApplicationCore.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\bin\Debug\netcoreapp1.1\GRS.ApplicationCore.pdb
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\obj\Debug\netcoreapp1.1\GRS.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\obj\Debug\netcoreapp1.1\GRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\obj\Debug\netcoreapp1.1\GRS.Infrastructure.AssemblyInfo.cs
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\obj\Debug\netcoreapp1.1\GRS.Infrastructure.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.Infrastructure\obj\Debug\netcoreapp1.1\GRS.Infrastructure.pdb
