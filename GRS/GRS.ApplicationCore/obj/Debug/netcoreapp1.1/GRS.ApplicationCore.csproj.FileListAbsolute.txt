@@ -1,0 +1,8 @@
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\bin\Debug\netcoreapp1.1\GRS.ApplicationCore.deps.json
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\bin\Debug\netcoreapp1.1\GRS.ApplicationCore.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\bin\Debug\netcoreapp1.1\GRS.ApplicationCore.pdb
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\obj\Debug\netcoreapp1.1\GRS.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\obj\Debug\netcoreapp1.1\GRS.ApplicationCore.AssemblyInfo.cs
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\obj\Debug\netcoreapp1.1\GRS.ApplicationCore.dll
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\obj\Debug\netcoreapp1.1\GRS.ApplicationCore.pdb
+C:\Users\Butt Sahab\source\repos\GRS\GRS.ApplicationCore\obj\Debug\netcoreapp1.1\GRS.ApplicationCore.csprojResolveAssemblyReference.cache

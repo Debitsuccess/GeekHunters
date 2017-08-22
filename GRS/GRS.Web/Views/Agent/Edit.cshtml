@@ -1,0 +1,54 @@
+@model CandidateViewModel
+@{
+    bool skillMatch = false;
+    ViewBag.Title = "Add/Edit Candidate";
+}
+<div class="col-md-12">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="FirstName"></label>
+                <div><span asp-validation-for="FirstName" class="text-danger"></span></div>
+                <input asp-for="FirstName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName"></label>
+                <div><span asp-validation-for="LastName" class="text-danger"></span></div>
+                <input asp-for="LastName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Skills"></label>
+                <div><span asp-validation-for="Skills" class="text-danger"></span></div>
+                @*<select  asp-for="Skills" asp-items="ViewBag.AllSkills" class="form-control" />*@
+                <select class="form-control" id="Skills" multiple="multiple" name="Skills">
+                    @foreach (var item in Model.AllSkills)
+                    {                        
+                        skillMatch = false;                        
+
+                        @foreach (var skill in Model.Skills)
+                        {
+                            @if (skill.ToString() == item.Value)
+                            {
+                                skillMatch = true;
+
+                                <option selected="selected" value="@item.Value">@item.Text</option>                                
+                            }
+                        }
+
+                        @if (!skillMatch)
+                        {
+                            <option value="@item.Value">@item.Text</option>
+                        }
+                    }
+                </select>
+            </div>
+            <div class="text-left">
+                <button class="btn btn-primary" type="submit">Save</button>
+                <a asp-action="Index" class="btn btn-default">Cancel</a>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-4"></div>
+</div>
