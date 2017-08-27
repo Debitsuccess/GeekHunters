@@ -14301,11 +14301,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.UnitTest\\GeekHunters.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters.UnitTest\\GeekHunters.UnitTest.csproj",
       "projectName": "GeekHunters.UnitTest",
-      "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.UnitTest\\GeekHunters.UnitTest.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters.UnitTest\\GeekHunters.UnitTest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14324,8 +14324,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters\\GeekHunters.csproj": {
-              "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters\\GeekHunters.csproj"
+            "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.csproj"
             }
           }
         }

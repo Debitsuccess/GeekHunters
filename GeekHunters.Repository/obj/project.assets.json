@@ -5076,11 +5076,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.Repository\\GeekHunters.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters.Repository\\GeekHunters.Repository.csproj",
       "projectName": "GeekHunters.Repository",
-      "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.Repository\\GeekHunters.Repository.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters.Repository\\GeekHunters.Repository.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters\\GeekHunters.Repository\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Visual Studio 2017\\Projects\\DebitSuccess\\GeekHunters.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
