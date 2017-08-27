@@ -1,0 +1,29 @@
+﻿<h1>Candidate Details</h1>
+
+<div class="container">
+    <form #candidateForm="ngForm">
+        <div class="form-group">
+            <label for="firstName">First Name</label>
+            <input id="firstName" type="text" class="form-control" required [(ngModel)]="candidate.firstName" name="firstName" #firstName="ngModel">
+            <div [hidden]="firstName.valid || firstName.pristine" class="alert alert-danger">
+                First Name is required
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="lastName">Last Name</label>
+            <input id="lastName" type="text" class="form-control" required [(ngModel)]="candidate.lastName" name="lastName" #lastName="ngModel">
+            <div [hidden]="lastName.valid || lastName.pristine" class="alert alert-danger">
+                Last Name is required
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="technologies">Technologies</label>
+            <select class="form-control" id="technologies" multiple [(ngModel)]="candidate.technologies" name="technologies" #technologies>
+                <option *ngFor="let tech of technologyList" [value]="tech">{{tech}}</option>
+            </select>
+        </div>
+        <button [disabled]="!candidateForm.form.valid" class="btn btn-success" *ngIf="isNew" (click)="addCandidate()">Add</button>
+        <button [disabled]="!candidateForm.form.valid" class="btn btn-success" *ngIf="!isNew" (click)="updateCandidate()">Update</button>
+        <button type="reset" class="btn btn-default" (click)="navigateToList()">Cancel</button>
+    </form>
+</div>

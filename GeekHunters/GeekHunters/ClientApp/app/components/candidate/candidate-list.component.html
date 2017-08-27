@@ -1,0 +1,39 @@
+﻿<h1>Candidate List</h1>
+
+<p *ngIf="!candidates"><em>Loading...</em></p>
+
+<div *ngIf="candidates" style="margin-top:25px">
+    <div class="form-inline">
+        <div class="form-group">
+            <label>Technology Filter</label>
+            <select class="form-control" id="technology" name="technology" #technology (change)="onTechnologyChange(technology.value)">
+                <option value="All">-- All --</option>
+                <option *ngFor="let tech of technologyList" [value]="tech">{{tech}}</option>
+            </select>
+        </div>
+    </div>
+</div>
+<hr />
+
+<table *ngIf="candidates" class="table table-hover">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Technology</th>
+            <th>&nbsp;</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let candidate of candidates">
+            <td>{{ candidate.firstName }}</td>
+            <td>{{ candidate.lastName }}</td>
+            <td>{{ candidate.technologies }}</td>
+            <td>
+                <button class="btn btn-primary btn-sm" [routerLink]="['/candidate', candidate.id]">Edit</button>
+                <button class="btn btn-primary btn-sm" (click)="deleteCandidate(candidate.id)">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<button class="btn btn-success" [routerLink]="['/candidate/new']">Create new</button>
