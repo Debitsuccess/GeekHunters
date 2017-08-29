@@ -3,3 +3,17 @@
 ################################################################################
 
 /GeekHunters.Repository/obj/project.assets.json
+/GeekHunters.Repository/obj/GeekHunters.Repository.csproj.nuget.g.targets
+/GeekHunters.Repository/obj/GeekHunters.Repository.csproj.nuget.g.props
+/GeekHunters.Repository/obj/GeekHunters.Repository.csproj.nuget.cache
+/GeekHunters.Repository/obj/Debug/netstandard2.0/GeekHunters.Repository.csproj.CoreCompileInputs.cache
+/GeekHunters.Repository/obj/Debug/netstandard2.0/GeekHunters.Repository.AssemblyInfoInputs.cache
+/GeekHunters.Repository/obj/Debug/netstandard2.0/GeekHunters.Repository.AssemblyInfo.cs
+/GeekHunters.UnitTest/obj/project.assets.json
+/GeekHunters.UnitTest/obj/GeekHunters.UnitTest.csproj.nuget.g.targets
+/GeekHunters.UnitTest/obj/GeekHunters.UnitTest.csproj.nuget.g.props
+/GeekHunters.UnitTest/obj/GeekHunters.UnitTest.csproj.nuget.cache
+/GeekHunters.UnitTest/obj/Debug/netcoreapp2.0/GeekHunters.UnitTest.Program.cs
+/GeekHunters.UnitTest/obj/Debug/netcoreapp2.0/GeekHunters.UnitTest.csproj.CoreCompileInputs.cache
+/GeekHunters.UnitTest/obj/Debug/netcoreapp2.0/GeekHunters.UnitTest.AssemblyInfoInputs.cache
+/GeekHunters.UnitTest/obj/Debug/netcoreapp2.0/GeekHunters.UnitTest.AssemblyInfo.cs
