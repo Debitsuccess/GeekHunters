@@ -1,28 +1,34 @@
-# Geek Hunters
+This application provides the following functionality
 
-You are working in IT-recruiting agency "Geek Hunters". Your employer asked you to implement Geek Registration System
-(GRS). 
-
-Using GRS a recruitment agent should be able to:
   - register a new candidate:
      - first name / last name
      - select technologies candidate has experience in from the predefined list 
   - view all candidates
   - filter candidates by technology
 
+  
+To run the WPF application -
+	navigate to GeekHunter\GeekHunterUI\bin\Debug  
+	execute GeekHunterUI.exe
+		
+To register a new candidate:
+	Enter a first name and last name
+	Click one of more skill
+	Click Add
+	
+To retrieve all candidates
+	Clear all skills checkboxes
+	Click Search
+	
+To retrieve candidates that match one or more skills
+	Click Clear
+	Check one or more skill checkboxes
+	Click Search
 
-Another developer has partially designed and implemented a
-SQLite DB for this project - GeekHunters.sqlite. Feel free to modify a structure to
-your needs.
+The Clear button is designed to be used between searches to clear the previous search
+and return all candidates and skills
 
-Please fork the project and commit your source code (please do not archive it :) ).
 
-You are free to use **ANY** technology and frameworks you need -
-Console Application / Desktop / Web. However, if you decide to go with third
-party package manager or dev tool - don't forget to mention them in the
-README.md of your fork.
-**Try to spend no more than 2-3 hours on this task.** 
 
-Good luck!
 
-P.S: And unit tests! We love unit tests!
+
