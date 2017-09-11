@@ -29,6 +29,9 @@ The Clear button is designed to be used between searches to clear the previous s
 and return all candidates and skills
 
 
+3rd Party Libraries
+	This appliocation makes use of the Moq framework
+
 
 
 
