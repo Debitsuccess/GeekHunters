@@ -1,0 +1,17 @@
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\obj\Debug\GeekRegistrationSystem.Core.BLL.csprojAssemblyReference.cache
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\obj\Debug\GeekRegistrationSystem.Core.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\GeekRegistrationSystem.Core.BLL.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\GeekRegistrationSystem.Core.BLL.pdb
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\GeekRegistrationSystem.Core.DAL.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\GeekRegsitrationSystem.Core.Entities.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\System.Data.SQLite.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\GeekRegistrationSystem.Core.DAL.pdb
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\GeekRegistrationSystem.Core.DAL.dll.config
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\GeekRegsitrationSystem.Core.Entities.pdb
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\System.Data.SQLite.xml
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\obj\Debug\GeekRegistrationSystem.Core.BLL.csproj.CopyComplete
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\obj\Debug\GeekRegistrationSystem.Core.BLL.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\obj\Debug\GeekRegistrationSystem.Core.BLL.pdb
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\x86\e_sqlite3.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Core.BLL\bin\Debug\x64\e_sqlite3.dll

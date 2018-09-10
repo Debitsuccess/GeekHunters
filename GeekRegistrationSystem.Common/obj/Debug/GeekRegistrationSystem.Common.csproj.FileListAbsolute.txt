@@ -1,0 +1,6 @@
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Common\bin\Debug\GeekRegistrationSystem.Common.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Common\bin\Debug\GeekRegistrationSystem.Common.pdb
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Common\obj\Debug\GeekRegistrationSystem.Common.csprojAssemblyReference.cache
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Common\obj\Debug\GeekRegistrationSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Common\obj\Debug\GeekRegistrationSystem.Common.dll
+C:\Users\mohammadh\source\repos\GeekRegistrationSystem\GeekRegistrationSystem.Common\obj\Debug\GeekRegistrationSystem.Common.pdb
