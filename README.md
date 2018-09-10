@@ -19,10 +19,11 @@ Using GRS a recruitment agent should be able to:
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br />
 Configuration:
 <br />
-* Database Connection is configured:
+* Database Connection is configured for Main app and Unit test as : 
 <br />
 	add name="GeekRegistrationConnectionString" connectionString="Data Source=Database\\GeekHunter.sqlite" 
 <br />
+	add name="GeekRegistrationConnectionStringTest" connectionString="Data Source=Database\\GeekHunterTest.sqlite"
 * Maximum and minimum length of string fields: 
 <br />   	
 	add key="MaximumStringLength" value="25"
@@ -48,3 +49,9 @@ Dependencies:<br />
 System.Data.SQLite
 <br />
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br />
+
+Please note that the current DB file configuration for the main application is under Debug/Database/GeekHunter.sqlite. <br />
+
+This will allow the user to run the application with the current configuration or simply change the database file location to a desired folder and update the configuration accordingly.
+
+A copy of the database file is under the root folder named as 'GeekHunterV2.sqlite'.
